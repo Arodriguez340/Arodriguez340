@@ -1,4 +1,5 @@
-### Hi there 👋
+Hi, I'm currently a software development student at the Technological University of Panama. 
+I like technology, and will like to increase my knowledge by learning how to use tools like GitHub!
 
 <!--
 **Arodriguez340/Arodriguez340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
